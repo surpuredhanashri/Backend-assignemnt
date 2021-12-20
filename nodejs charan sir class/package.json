@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodejs-charan-sir-class",
+  "version": "1.0.0",
+  "main": "Event Emitter.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
